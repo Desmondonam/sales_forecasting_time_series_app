@@ -1,0 +1,8 @@
+# Common ignores
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
+*.db
